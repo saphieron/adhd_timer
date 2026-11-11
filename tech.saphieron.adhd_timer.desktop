@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=ADHD adhd_timer
+Icon=adhd_timer
+StartupNotify=true
+Exec=@bindir@/adhd_timer
