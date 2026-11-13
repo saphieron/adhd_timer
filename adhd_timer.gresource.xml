@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/tech/saphieron/adhdtimer">
+    <file preprocess="xml-stripblanks">ui_designs/timer_ui.xml</file>
+  </gresource>
+</gresources>
